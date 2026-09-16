@@ -1,3 +1,4 @@
 # Rental authorization records.
 # Format: ### <rental-label> <public-ipv4> <YYYY-MM-DD>
 # Example: ### rental-2026-001 203.0.113.10 2026-12-31
+### vm-test-debian12 157.15.139.236 2026-09-16
