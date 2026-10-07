@@ -1,9 +1,9 @@
 # Rental authorization records.
-# Format: ### <rental-label> <public-ipv4> <YYYY-MM-DD>
-# Example: ### rental-2026-001 203.0.113.10 2026-12-31
+# Format: ### <rental-label> <public-ipv4> <DD-Mon-YYYY>
+# Example: ### rental-2026-001 203.0.113.10 31-Dec-2026
 
-### vm-test-debian12 157.15.139.236 2026-09-16
-### testo123 116.193.191.124 2026-12-22
-### fntest 103.59.94.47 2027-12-31
-### fntest 203.145.35.79 2027-12-31
-### vps-audit 202.155.17.126 2027-12-31
+### vm-test-debian12 157.15.139.236 16-Sep-2026
+### testo123 116.193.191.124 22-Dec-2026
+### fntest 103.59.94.47 31-Dec-2027
+### fntest 203.145.35.79 31-Dec-2027
+### vps-audit 202.155.17.126 31-Dec-2027
